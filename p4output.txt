@@ -1,1 +1,6 @@
 
+gcc -g p4original.c
+ ./a.out
+Enter the serial number 
+8
+The fibonacci sequence of 8 is:- 13 
